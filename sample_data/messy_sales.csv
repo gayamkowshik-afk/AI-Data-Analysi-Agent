@@ -1,0 +1,613 @@
+Order ID,Order Date,Customer Name,Email,Region,Category,Quantity,Sales,Profit
+ORD-00000,2025-05-25,Customer 0,user0@mail.com,West,Office Supplies,7.0,1820.98,614.92
+ORD-00001,2024-12-03,Customer 1,user1@mail.com,North,Office Supplies,1.0,291.37,5.97
+ORD-00002,2025-01-04,Customer 2,user2@mail.com,WEST,Technology,2.0,93.16,11.25
+ORD-00003,2025-04-29,Customer 3,user3@mail.com,East,Furniture,7.0,534.8,35.36
+ORD-00004,2024-11-08,Customer 4,user4@mail.com,South,Furniture,1.0,127.05,1.17
+ORD-00005,2025-02-22,Customer 5,user5@mail.com,South,Furniture,3.0,348.81,-20.37
+ORD-00006,2025-03-26,Customer 6,user6@mail.com,North,Technology,8.0,2427.68,313.41
+ORD-00007,2024-05-01,Customer 7,user7@mail.com,South,Technology,9.0,3576.24,-499.99
+ORD-00008,2024-01-30,Customer 8,user8@mail.com,West,Office Supplies,5.0,1374.15,187.68
+ORD-00009,2024-06-11,Customer 9,user9@mail.com,North,Technology,9.0,162.45,20.0
+ORD-00010,2024-06-02,Customer 10,user10@mail.com,East,Office Supplies,8.0,980.4,20.92
+ORD-00011,2025-04-16,Customer 11,user11@mail.com,West,Office Supplies,9.0,2899.8,-91.74
+ORD-00012,2025-05-07,Customer 12,user12@mail.com,East,Office Supplies,3.0,1110.33,-97.32
+ORD-00013,2024-01-03,Customer 13,user13@mail.com,West,Technology,3.0,,288.49
+ORD-00014,not available,Customer 14,user14@mail.com,West,Furniture,6.0,856.68,-69.64
+ORD-00015,2025-03-19,Customer 15,user15@mail.com,West,Office Supplies,1.0,145.27,51.38
+ORD-00016,2024-03-11,Customer 16,user16@mail.com,West,Furniture,3.0,,160.8
+ORD-00017,2025-03-06,Customer 17,user17@mail.com,East,Furniture,4.0,1385.44,90.6
+ORD-00018,2024-03-05,Customer 18,user18@mail.com,West,Office Supplies,9.0,1256.67,-67.31
+ORD-00019,2024-09-09,Customer 19,user19@mail.com, east ,Office Supplies,9.0,722.97,199.81
+ORD-00020,not available,Customer 20,user20@mail.com,West,Furniture,4.0,24.4,9.26
+ORD-00021,2024-06-12,Customer 21,user21@mail.com,North,Technology,7.0,415.1,-8.35
+ORD-00022,2024-07-03,Customer 22,user22@mail.com,East,Office Supplies,5.0,1706.1,128.28
+ORD-00023,2024-05-30,Customer 23,user23@mail.com,West,Technology,1.0,251.71,69.91
+ORD-00024,2025-01-23,Customer 24,user24@mail.com,South,Office Supplies,4.0,1585.2,270.07
+ORD-00025,2024-05-17,Customer 25,user25@mail.com,North,Furniture,7.0,227.08,95.37
+ORD-00026,2025-06-18,Customer 26,user26@mail.com,East,Office Supplies,7.0,1047.06,36.1
+ORD-00027,2024-08-28,Customer 27,user27@mail.com,North,Furniture,9.0,2873.79,578.62
+ORD-00028,2024-09-15,Customer 28,user28@mail.com,South,Technology,6.0,1597.08,-108.03
+ORD-00029,2024-09-29,Customer 29,user29@mail.com,West,Furniture,9.0,281.97,122.48
+ORD-00030,2024-11-10,Customer 30,user30@mail.com,East,Office Supplies,5.0,817.85,8.55
+ORD-00031,2024-10-25,Customer 31,user31@mail.com,South,Office Supplies,,1798.02,-379.73
+ORD-00032,2024-10-02,Customer 32,user32@mail.com,WEST,Furniture,6.0,1659.96,167.88
+ORD-00033,2025-06-21,Customer 33,user33@mail.com, east ,Technology,8.0,,145.39
+ORD-00034,2025-03-12,Customer 34,user34@mail.com, east ,Office Supplies,9.0,713.97,290.83
+ORD-00035,2025-03-04,Customer 35,user35@mail.com,West,Office Supplies,8.0,3092.32,213.92
+ORD-00036,2025-01-13,Customer 36,user36@mail.com,South,Technology,9.0,1703.43,201.18
+ORD-00037,2024-12-01,Customer 37,user37@mail.com,East,Office Supplies,4.0,1153.4,241.08
+ORD-00038,2024-07-03,Customer 38,user38@mail.com,East,Technology,9.0,1946.34,696.67
+ORD-00039,2025-06-18,Customer 39,user39@mail.com,South,Office Supplies,1.0,,4.07
+ORD-00040,2024-09-08,Customer 40,user40@mail.com,South,Technology,4.0,393.96,108.7
+ORD-00041,2024-04-26,Customer 41,user41@mail.com,South,Office Supplies,7.0,209.3,41.38
+ORD-00042,2025-04-01,Customer 42,user42@mail.com,East,Office Supplies,6.0,482.16,36.43
+ORD-00043,2024-03-27,Customer 43,user43@mail.com,WEST,Office Supplies,2.0,168.14,22.13
+ORD-00044,2025-04-08,Customer 44,user44@mail.com,West,Technology,7.0,1182.09,146.94
+ORD-00045,2024-11-26,Customer 45,user45@mail.com,North,Office Supplies,4.0,528.28,-9.19
+ORD-00046,2024-03-02,Customer 46,user46@mail.com,South,Office Supplies,,,358.14
+ORD-00047,2024-01-24,Customer 47,user47@mail.com,South,Technology,9.0,2949.03,-259.05
+ORD-00048,2024-08-28,Customer 48,user48@mail.com,West,Furniture,2.0,26.88,7.95
+ORD-00049,2024-01-20,Customer 49,user49@mail.com,South,Office Supplies,6.0,275.04,72.38
+ORD-00050,2024-03-17,Customer 50,user50@mail.com,West,Office Supplies,1.0,324.08,34.37
+ORD-00051,2024-10-05,Customer 51,user51@mail.com,East,Furniture,5.0,1079.6,5.6
+ORD-00052,2025-06-07,Customer 52,user52@mail.com,West,Office Supplies,8.0,1426.88,122.76
+ORD-00053,2024-09-08,Customer 53,user53@mail.com, east ,Technology,9.0,995.31,190.02
+ORD-00054,2025-03-12,Customer 54,user54@mail.com,North,Technology,8.0,1753.76,405.92
+ORD-00055,2025-05-10,Customer 55,user55@mail.com,South,Office Supplies,3.0,277.56,45.25
+ORD-00056,2025-03-20,Customer 56,user56@mail.com,East,Technology,-3.0,1376.2,369.95
+ORD-00057,2024-12-05,Customer 57,user57@mail.com,WEST,Technology,9.0,2974.5,108.23
+ORD-00058,2024-08-26,Customer 58,user58@mail.com,East,Technology,8.0,,164.04
+ORD-00059,2024-10-04,Customer 59,user59@mail.com,East,Furniture,9.0,132.12,-15.23
+ORD-00060,2024-05-23,Customer 60,user60@mail.com,North,Furniture,,1066.89,250.23
+ORD-00061,2024-09-25,Customer 61,user61@mail.com,North,Technology,4.0,491.92,70.33
+ORD-00062,not available,Customer 62,user62@mail.com,South,Furniture,8.0,2115.76,122.0
+ORD-00063,2024-05-13,Customer 63,user63@mail.com,West,Furniture,3.0,1031.91,303.62
+ORD-00064,2025-06-20,Customer 64,user64@mail.com,South,Technology,7.0,2242.45,501.7
+ORD-00065,2024-01-07,Customer 65,user65@mail.com,South,Furniture,-3.0,691.38,-209.11
+ORD-00066,2024-02-22,Customer 66,user66@mail.com,South,Office Supplies,1.0,198.21,24.97
+ORD-00067,2024-04-13,Customer 67,user67@mail.com,East,Office Supplies,9.0,3039.39,-298.63
+ORD-00068,2025-06-07,Customer 68,user68@mail.com,West,Technology,3.0,,157.21
+ORD-00069,2025-01-08,Customer 69,user69@mail.com,South,Office Supplies,,218.42,107.76
+ORD-00070,2025-04-21,Customer 70,user70@mail.com,South,technology,3.0,,24.7
+ORD-00071,2024-04-18,Customer 71,user71@mail.com,East,Furniture,1.0,137.48,18.04
+ORD-00072,2025-01-24,Customer 72,user72@mail.com,South,Furniture,7.0,2156.14,177.55
+ORD-00073,2024-07-18,Customer 73,user73@mail.com, east ,Office Supplies,9.0,3001.68,518.16
+ORD-00074,2024-09-21,Customer 74,user74@mail.com,East,Technology,1.0,60.76,13.17
+ORD-00075,not available,Customer 75,user75@mail.com,East,Office Supplies,6.0,419.7,131.4
+ORD-00076,2024-11-29,Customer 76,user76@mail.com,West,Furniture,4.0,626.2,-17.6
+ORD-00077,2025-03-24,Customer 77,user77@mail.com,West,Office Supplies,7.0,1316.0,468.16
+ORD-00078,2024-12-24,Customer 78,user78@mail.com,East,Office Supplies,7.0,2679.25,-52.85
+ORD-00079,2024-03-24,Customer 79,user79@mail.com,East,Office Supplies,7.0,2638.79,426.33
+ORD-00080,2024-10-15,Customer 80,user80@mail.com,East,Furniture,1.0,386.98,113.69
+ORD-00081,2024-05-24,Customer 81,user81@mail.com,West,Technology,1.0,293.25,66.56
+ORD-00082,2025-06-05,Customer 82,user82@mail.com,West,Technology,9.0,2452.5,-50.98
+ORD-00083,2025-04-20,Customer 83,user83@mail.com,West,Office Supplies,1.0,111.8,1.64
+ORD-00084,2024-04-10,Customer 84,user84@mail.com,West,Furniture,5.0,"1,250.50",38.54
+ORD-00085,2024-10-02,Customer 85,user85@mail.com,North,Technology,5.0,30.3,3.4
+ORD-00086,2025-05-22,Customer 86,user86@mail.com,East,Office Supplies,4.0,1336.08,390.19
+ORD-00087,2025-04-02,Customer 87,user87@mail.com,West,Technology,1.0,250000.0,-8.41
+ORD-00088,2025-01-17,Customer 88,user88@mail.com,North,Technology,2.0,72.64,13.8
+ORD-00089,2024-12-11,Customer 89,user89@mail.com,East,Office Supplies,5.0,648.3,137.11
+ORD-00090,2024-01-23,Customer 90,user90@mail.com,South,Technology,1.0,132.65,27.03
+ORD-00091,2025-02-04,Customer 91,user91@mail.com,South,Furniture,7.0,2036.79,386.88
+ORD-00092,2024-09-12,Customer 92,user92@mail.com,West,Technology,8.0,58.0,20.17
+ORD-00093,2024-02-19,Customer 93,user93@mail.com,South,Furniture,6.0,575.16,111.1
+ORD-00094,2024-05-12,Customer 94,user94@mail.com,West,technology,8.0,2872.88,714.04
+ORD-00095,2024-10-19,Customer 95,user95@mail.com,South,Office Supplies,6.0,2056.08,420.53
+ORD-00096,2025-01-27,Customer 96,user96@mail.com,North,Office Supplies,7.0,1774.29,690.14
+ORD-00097,2024-10-01,Customer 97,user97@mail.com,East,Office Supplies,1.0,225.79,-37.25
+ORD-00098,2024-11-26,Customer 98,user98@mail.com,East,Office Supplies,5.0,464.65,145.12
+ORD-00099,2025-04-15,Customer 99,user99@mail.com,West,Technology,3.0,1051.98,85.05
+ORD-00100,2025-01-05,Customer 100,user100@mail.com,North,Office Supplies,2.0,610.96,47.59
+ORD-00101,2024-07-14,Customer 101,user101@mail.com,East,Office Supplies,9.0,1868.49,-47.5
+ORD-00102,2024-12-13,Customer 102,user102@mail.com,North,Office Supplies,8.0,548.8,-87.98
+ORD-00103,2024-11-19,Customer 103,user103@mail.com,East,Office Supplies,2.0,180.52,11.32
+ORD-00104,2024-02-28,Customer 104,user104@mail.com,West,Office Supplies,9.0,1393.38,23.56
+ORD-00105,2024-02-01,Customer 105,user105@mail.com,East,Furniture,5.0,678.95,131.8
+ORD-00106,2024-12-22,Customer 106,user106@mail.com,WEST,Office Supplies,6.0,174.72,-17.62
+ORD-00107,2024-07-28,Customer 107,user107@mail.com,North,Technology,1.0,165.52,55.41
+ORD-00108,2024-11-19,Customer 108,user108@mail.com,South,Furniture,-3.0,1457.92,234.42
+ORD-00109,2024-06-23,Customer 109,user109@mail.com,East,Office Supplies,9.0,1065.6,88.25
+ORD-00110,2024-05-01,Customer 110,user110@mail.com,East,Office Supplies,7.0,1097.6,14.91
+ORD-00111,2024-03-22,Customer 111,user111@mail.com,East,Furniture,2.0,272.58,0.52
+ORD-00112,2024-07-25,Customer 112,user112@mail.com,North,Technology,5.0,769.25,-38.09
+ORD-00113,2025-03-16,Customer 113,user113@mail.com,South,Office Supplies,4.0,998.08,38.27
+ORD-00114,2024-08-04,Customer 114,user114@mail.com,North,Technology,4.0,805.8,97.43
+ORD-00115,2024-07-23,Customer 115,user115@mail.com,West,Technology,5.0,415.25,38.78
+ORD-00116,2024-11-06,Customer 116,user116@mail.com,South,Technology,7.0,2233.91,-205.91
+ORD-00117,2025-06-12,Customer 117,user117@mail.com,East,Technology,7.0,1453.97,116.5
+ORD-00118,2024-07-30,Customer 118,user118@mail.com,WEST,Office Supplies,3.0,558.15,-7.8
+ORD-00119,2024-11-14,Customer 119,user119@mail.com,North,Office Supplies,9.0,2580.93,371.61
+ORD-00120,2024-08-25,Customer 120,user120@mail.com,South,Furniture,4.0,1208.36,482.98
+ORD-00121,2024-11-22,Customer 121,user121@mail.com,West,Office Supplies,7.0,2382.66,509.3
+ORD-00122,2024-08-28,Customer 122,user122@mail.com,West,Office Supplies,8.0,2603.52,190.14
+ORD-00123,2024-12-10,Customer 123,user123@mail.com,North,Furniture,4.0,1077.04,-133.26
+ORD-00124,2024-10-22,Customer 124,user124@mail.com,South,Furniture,8.0,2318.8,-213.81
+ORD-00125,2024-12-31,Customer 125,user125@mail.com,West,Furniture,1.0,67.07,-8.92
+ORD-00126,2025-05-31,Customer 126,user126@mail.com,South,Office Supplies,3.0,843.63,193.1
+ORD-00127,2024-03-22,Customer 127,user127@mail.com,North,Office Supplies,7.0,738.57,3.87
+ORD-00128,2024-10-30,Customer 128,user128@mail.com,North,Furniture,7.0,747.95,96.78
+ORD-00129,2024-08-25,Customer 129,user129@mail.com,North,Technology,9.0,472.05,12.6
+ORD-00130,2024-07-12,Customer 130,user130@mail.com,West,Furniture,4.0,647.12,86.51
+ORD-00131,2024-05-09,Customer 131,user131@mail.com,North,Technology,1.0,12.85,4.24
+ORD-00132,2024-01-29,Customer 132,user132@mail.com,South,Office Supplies,4.0,1058.04,18.26
+ORD-00133,2024-08-05,Customer 133,user133@mail.com,West,Furniture,7.0,,144.84
+ORD-00134,2025-03-22,Customer 134,user134@mail.com,South,Furniture,-3.0,622.68,-0.59
+ORD-00135,2024-02-22,Customer 135,user135@mail.com,South,Technology,2.0,111.8,28.08
+ORD-00136,2024-08-07,Customer 136,user136@mail.com,East,Technology,4.0,1032.92,-34.97
+ORD-00137,2025-06-06,Customer 137,user137@mail.com,South,Office Supplies,5.0,1680.65,-83.94
+ORD-00138,2025-05-28,Customer 138,user138@mail.com,West,Technology,4.0,76.84,-6.77
+ORD-00139,2024-04-26,Customer 139,user139@mail.com,East,technology,5.0,,-37.14
+ORD-00140,2024-01-05,Customer 140,user140@mail.com,West,Technology,-3.0,664.62,126.7
+ORD-00141,2024-12-28,Customer 141,user141@mail.com,East,Office Supplies,6.0,1124.88,568.48
+ORD-00142,2024-01-08,Customer 142,user142@mail.com,West,Office Supplies,4.0,292.04,-8.56
+ORD-00143,2024-06-11,Customer 143,user143@mail.com,East,Furniture,9.0,1960.65,515.13
+ORD-00144,2024-09-25,Customer 144,user144@mail.com,North,Office Supplies,5.0,704.3,111.04
+ORD-00145,2025-04-17,Customer 145,user145@mail.com,South,Technology,7.0,1846.39,-83.65
+ORD-00146,2024-02-20,Customer 146,user146@mail.com,South,Office Supplies,6.0,1289.22,101.2
+ORD-00147,2024-12-23,Customer 147,user147@mail.com,South,Furniture,4.0,1104.36,93.94
+ORD-00148,2024-10-14,Customer 148,user148@mail.com,East,Office Supplies,6.0,613.8,10.06
+ORD-00149,2024-03-12,Customer 149,user149@mail.com,East,Furniture,7.0,1990.03,815.1
+ORD-00150,2025-04-01,Customer 0,user0@mail.com,North,Technology,5.0,1475.9,-244.88
+ORD-00151,2025-04-01,Customer 1,user1@mail.com,South,Office Supplies,5.0,1450.9,257.03
+ORD-00152,2024-09-17,Customer 2,user2@mail.com,South,Technology,6.0,192.24,32.63
+ORD-00153,2025-05-25,Customer 3,user3@mail.com,East,Furniture,4.0,,50.08
+ORD-00154,2024-11-23,Customer 4,user4@mail.com,North,Furniture,7.0,1630.02,232.16
+ORD-00155,2025-05-03,Customer 5,user5@mail.com,North,Technology,4.0,450.28,113.31
+ORD-00156,2025-06-02,Customer 6,user6@mail.com,West,Furniture,1.0,176.48,25.22
+ORD-00157,2024-11-03,Customer 7,user7@mail.com,West,Furniture,5.0,1047.25,191.23
+ORD-00158,2024-05-31,Customer 8,user8@mail.com,North,Furniture,9.0,1885.68,422.27
+ORD-00159,2024-03-19,Customer 9,user9@mail.com,South,Technology,3.0,308.82,-57.07
+ORD-00160,2024-10-30,Customer 10,user10@mail.com,South,Technology,3.0,328.98,112.43
+ORD-00161,2024-04-13,Customer 11,user11@mail.com,East,Office Supplies,3.0,445.86,205.87
+ORD-00162,2025-02-09,Customer 12,user12@mail.com,South,Technology,9.0,2821.23,753.6
+ORD-00163,2025-05-16,Customer 13,user13@mail.com,WEST,Furniture,2.0,355.58,96.74
+ORD-00164,2024-05-12,Customer 14,user14@mail.com,West,Technology,4.0,81.04,-7.39
+ORD-00165,not available,Customer 15,user15@mail.com,North,Office Supplies,4.0,734.48,75.09
+ORD-00166,2024-01-27,Customer 16,user16@mail.com,South,Technology,6.0,507.24,-0.92
+ORD-00167,2024-04-07,Customer 17,user17@mail.com,East,Technology,3.0,,0.95
+ORD-00168,2024-07-22,Customer 18,user18@mail.com,North,Office Supplies,7.0,2736.51,725.33
+ORD-00169,2025-04-22,Customer 19,user19@mail.com,East,Technology,,968.16,-0.57
+ORD-00170,2025-06-07,Customer 20,user20@mail.com,South,Office Supplies,4.0,869.24,87.35
+ORD-00171,2024-12-12,Customer 21,user21@mail.com,West,Office Supplies,8.0,1171.92,-194.88
+ORD-00172,2024-11-11,Customer 22,user22@mail.com,South,Technology,2.0,52.2,5.02
+ORD-00173,2024-11-03,Customer 23,user23@mail.com,South,Office Supplies,4.0,1443.4,192.7
+ORD-00174,2024-02-02,Customer 24,user24@mail.com,East,Technology,8.0,2996.64,42.8
+ORD-00175,2024-07-22,Customer 25,user25@mail.com,South,Furniture,6.0,471.84,5.67
+ORD-00176,not available,Customer 26,user26@mail.com,South,Technology,2.0,340.22,137.1
+ORD-00177,2024-08-09,Customer 27,user27@mail.com,South,Office Supplies,9.0,1373.31,-84.41
+ORD-00178,2024-04-25,Customer 28,user28@mail.com,South,Office Supplies,8.0,568.4,-21.37
+ORD-00179,2024-05-09,Customer 29,user29@mail.com,South,Furniture,4.0,1065.44,-1.44
+ORD-00180,2025-01-20,Customer 30,user30@mail.com,South,Office Supplies,2.0,627.78,188.22
+ORD-00181,2024-01-21,Customer 31,user31@mail.com,WEST,Technology,5.0,1525.4,663.9
+ORD-00182,2025-06-07,Customer 32,user32@mail.com,West,Furniture,6.0,1630.32,276.87
+ORD-00183,2025-04-18,Customer 33,user33@mail.com, east ,Office Supplies,4.0,47.64,0.59
+ORD-00184,2024-11-02,Customer 34,user34@mail.com,North,Office Supplies,7.0,669.83,37.4
+ORD-00185,2024-09-09,Customer 35,user35@mail.com,North,Furniture,6.0,1249.62,349.55
+ORD-00186,2025-02-15,Customer 36,user36@mail.com,South,technology,8.0,2260.96,-37.67
+ORD-00187,2024-10-22,Customer 37,user37@mail.com,North,Furniture,9.0,1418.76,479.46
+ORD-00188,2024-09-14,Customer 38,user38@mail.com,West,Furniture,7.0,1277.22,424.66
+ORD-00189,2024-06-22,Customer 39,user39@mail.com,West,Technology,2.0,,88.0
+ORD-00190,2024-08-29,Customer 40,user40@mail.com,WEST,Office Supplies,1.0,14.3,3.1
+ORD-00191,2025-02-09,Customer 41,user41@mail.com,East,Furniture,9.0,999.81,232.42
+ORD-00192,2024-01-30,Customer 42,user42@mail.com,East,Office Supplies,8.0,956.16,337.65
+ORD-00193,2024-01-14,Customer 43,user43@mail.com,South,Office Supplies,6.0,2382.9,-89.88
+ORD-00194,2025-01-24,Customer 44,user44@mail.com,South,technology,3.0,284.64,84.59
+ORD-00195,2024-07-19,Customer 45,user45@mail.com,East,Office Supplies,8.0,188.88,12.03
+ORD-00196,2025-03-10,Customer 46,user46@mail.com,West,Technology,1.0,169.5,0.82
+ORD-00197,2024-01-17,Customer 47,user47@mail.com,South,Office Supplies,6.0,1569.36,212.49
+ORD-00198,2025-05-04,Customer 48,user48@mail.com,South,technology,4.0,262.4,23.05
+ORD-00199,2024-03-07,Customer 49,user49@mail.com,North,Office Supplies,8.0,2693.44,-75.75
+ORD-00200,2024-08-12,Customer 50,user50@mail.com,South,Office Supplies,7.0,578.2,-69.15
+ORD-00201,2025-06-06,Customer 51,user51@mail.com,West,Furniture,3.0,849.57,-18.11
+ORD-00202,2024-02-28,Customer 52,user52@mail.com,South,Office Supplies,8.0,551.28,186.25
+ORD-00203,2024-12-21,Customer 53,user53@mail.com,South,Technology,,2472.96,1024.76
+ORD-00204,2025-01-28,Customer 54,user54@mail.com,North,Office Supplies,3.0,253.56,55.15
+ORD-00205,2024-08-19,Customer 55,user55@mail.com,East,Office Supplies,3.0,881.67,262.64
+ORD-00206,2024-02-12,Customer 56,user56@mail.com,West,Office Supplies,4.0,1345.12,57.13
+ORD-00207,2024-10-09,Customer 57,user57@mail.com,North,Technology,5.0,528.5,57.3
+ORD-00208,2024-08-22,Customer 58,user58@mail.com,West,Technology,3.0,125.01,20.3
+ORD-00209,2025-04-16,Customer 59,user59@mail.com,East,Office Supplies,7.0,1655.71,-69.86
+ORD-00210,2025-01-03,Customer 60,user60@mail.com,East,Office Supplies,5.0,,-28.79
+ORD-00211,2024-07-04,Customer 61,user61@mail.com,South,Technology,2.0,,52.3
+ORD-00212,2024-02-01,Customer 62,user62@mail.com,West,Office Supplies,7.0,2195.41,157.97
+ORD-00213,2024-11-14,Customer 63,user63@mail.com,WEST,Technology,1.0,187.93,-7.43
+ORD-00214,2024-05-30,Customer 64,user64@mail.com,West,Technology,9.0,1811.97,322.49
+ORD-00215,2025-01-04,Customer 65,user65@mail.com,South,Office Supplies,8.0,1579.76,127.18
+ORD-00216,2025-04-11,Customer 66,user66@mail.com,East,Technology,1.0,184.56,50.42
+ORD-00217,2024-07-10,Customer 67,user67@mail.com,West,Technology,8.0,1322.08,157.62
+ORD-00218,2025-05-02,Customer 68,user68@mail.com,North,Technology,3.0,205.68,15.42
+ORD-00219,2024-10-07,Customer 69,user69@mail.com,South,Technology,6.0,729.9,101.57
+ORD-00220,2024-10-13,Customer 70,user70@mail.com,WEST,Furniture,3.0,328.89,30.98
+ORD-00221,2025-02-17,Customer 71,user71@mail.com,North,Furniture,3.0,309.09,6.12
+ORD-00222,2025-03-02,Customer 72,user72@mail.com,South,Office Supplies,1.0,314.22,18.76
+ORD-00223,2025-05-05,Customer 73,user73@mail.com,North,Office Supplies,6.0,300.24,69.78
+ORD-00224,2025-06-23,Customer 74,user74@mail.com,South,Office Supplies,6.0,516.84,112.14
+ORD-00225,2024-03-22,Customer 75,user75@mail.com,South,Office Supplies,1.0,212.93,66.63
+ORD-00226,2024-08-10,Customer 76,user76@mail.com,East,Furniture,3.0,385.35,-51.62
+ORD-00227,2025-05-19,Customer 77,user77@mail.com,West,Furniture,-3.0,"1,250.50",36.57
+ORD-00228,2024-06-15,Customer 78,user78@mail.com,East,Technology,8.0,1219.92,70.53
+ORD-00229,2024-01-03,Customer 79,user79@mail.com,West,Technology,6.0,1219.8,177.81
+ORD-00230,2024-11-07,Customer 80,user80@mail.com,East,Office Supplies,2.0,542.72,28.32
+ORD-00231,2025-02-10,Customer 81,user81@mail.com,North,Technology,6.0,2334.18,100.42
+ORD-00232,2025-02-05,Customer 82,user82@mail.com,East,Technology,3.0,1025.37,243.47
+ORD-00233,2025-03-13,Customer 83,user83@mail.com,South,Office Supplies,5.0,874.25,128.26
+ORD-00234,2024-12-13,Customer 84,user84@mail.com,North,Furniture,5.0,917.0,-50.39
+ORD-00235,2024-03-14,Customer 85,user85@mail.com,West,Furniture,3.0,507.63,162.53
+ORD-00236,2025-04-02,Customer 86,user86@mail.com,West,Office Supplies,-3.0,795.04,214.27
+ORD-00237,2024-08-14,Customer 87,user87@mail.com,North,Office Supplies,7.0,2666.65,90.42
+ORD-00238,2025-04-02,Customer 88,user88@mail.com,West,Technology,1.0,32.12,7.86
+ORD-00239,2025-03-16,Customer 89,user89@mail.com,East,Office Supplies,5.0,429.75,4.18
+ORD-00240,2025-06-08,Customer 90,user90@mail.com,East,Furniture,2.0,532.96,153.95
+ORD-00241,2024-01-08,Customer 91,user91@mail.com,North,Technology,7.0,"1,250.50",145.41
+ORD-00242,2025-04-12,Customer 92,user92@mail.com,North,Office Supplies,4.0,460.28,-0.2
+ORD-00243,2024-12-05,Customer 93,user93@mail.com,South,Technology,4.0,1500.4,96.08
+ORD-00244,2024-09-19,Customer 94,user94@mail.com,East,Technology,3.0,,2.56
+ORD-00245,2025-03-04,Customer 95,user95@mail.com,East,Office Supplies,1.0,240.52,35.79
+ORD-00246,2025-05-29,Customer 96,user96@mail.com,North,Office Supplies,2.0,81.92,11.98
+ORD-00247,2024-10-04,Customer 97,user97@mail.com,North,Furniture,5.0,1784.5,223.72
+ORD-00248,2024-02-17,Customer 98,user98@mail.com,South,Office Supplies,7.0,319.83,11.68
+ORD-00249,2025-01-26,Customer 99,user99@mail.com,East,Furniture,6.0,963.9,-413.67
+ORD-00250,2024-05-04,Customer 100,user100@mail.com,North,Office Supplies,3.0,1064.4,142.55
+ORD-00251,2024-05-02,Customer 101,user101@mail.com,South,Furniture,9.0,3404.43,-559.81
+ORD-00252,2024-04-14,Customer 102,user102@mail.com,South,Technology,6.0,2172.42,340.26
+ORD-00253,2024-04-17,Customer 103,user103@mail.com,West,Furniture,8.0,2655.2,769.0
+ORD-00254,2025-05-06,Customer 104,user104@mail.com,West,Office Supplies,1.0,97.15,15.65
+ORD-00255,2024-07-15,Customer 105,user105@mail.com,West,Technology,1.0,17.58,1.08
+ORD-00256,2024-02-27,Customer 106,user106@mail.com,East,Office Supplies,1.0,183.46,17.07
+ORD-00257,2024-04-06,Customer 107,user107@mail.com,North,Office Supplies,7.0,209.72,20.98
+ORD-00258,2024-08-01,Customer 108,user108@mail.com,North,Office Supplies,4.0,1537.64,57.84
+ORD-00259,2024-07-05,Customer 109,user109@mail.com,North,Furniture,3.0,24.69,0.8
+ORD-00260,2024-06-16,Customer 110,user110@mail.com,South,Technology,6.0,801.36,-14.89
+ORD-00261,2025-05-26,Customer 111,user111@mail.com,North,Office Supplies,7.0,597.1,178.07
+ORD-00262,2025-04-12,Customer 112,user112@mail.com,South,Office Supplies,5.0,52.05,6.12
+ORD-00263,2024-11-05,Customer 113,user113@mail.com,East,Technology,,808.56,213.01
+ORD-00264,2025-06-16,Customer 114,user114@mail.com,South,Technology,4.0,,11.56
+ORD-00265,2024-07-02,Customer 115,user115@mail.com,North,Furniture,3.0,1081.44,141.48
+ORD-00266,2024-03-15,Customer 116,user116@mail.com,West,Furniture,4.0,1106.44,104.5
+ORD-00267,2024-05-26,Customer 117,user117@mail.com,North,Office Supplies,5.0,755.75,143.16
+ORD-00268,not available,Customer 118,user118@mail.com,East,Furniture,3.0,1012.26,246.99
+ORD-00269,2025-05-29,Customer 119,user119@mail.com,South,Furniture,5.0,1598.8,249.34
+ORD-00270,2024-04-28,Customer 120,user120@mail.com,North,technology,6.0,803.64,15.21
+ORD-00271,2024-08-28,Customer 121,user121@mail.com,East,Furniture,7.0,2377.62,7.15
+ORD-00272,2024-04-19,Customer 122,user122@mail.com,South,Furniture,1.0,372.11,137.26
+ORD-00273,2025-06-13,Customer 123,user123@mail.com,West,Office Supplies,6.0,1499.16,116.93
+ORD-00274,2024-03-26,Customer 124,user124@mail.com,East,Technology,3.0,431.85,32.97
+ORD-00275,2024-10-05,Customer 125,user125@mail.com,North,Furniture,7.0,2525.11,857.91
+ORD-00276,2025-05-28,Customer 126,user126@mail.com,East,Office Supplies,9.0,3396.87,961.92
+ORD-00277,2024-10-08,Customer 127,user127@mail.com,North,Furniture,4.0,568.72,113.79
+ORD-00278,2025-04-30,Customer 128,user128@mail.com,South,Furniture,2.0,78.18,4.7
+ORD-00279,2025-04-29,Customer 129,user129@mail.com,East,Office Supplies,,,1151.45
+ORD-00280,2025-02-18,Customer 130,user130@mail.com, east ,Office Supplies,3.0,802.77,143.65
+ORD-00281,2025-02-05,Customer 131,user131@mail.com,North,Office Supplies,4.0,386.56,78.1
+ORD-00282,2024-11-07,Customer 132,user132@mail.com,West,Furniture,6.0,1373.64,129.58
+ORD-00283,2024-11-09,Customer 133,user133@mail.com,East,Technology,6.0,760.44,-70.07
+ORD-00284,2025-03-24,Customer 134,user134@mail.com,East,Furniture,1.0,368.08,-29.53
+ORD-00285,2024-08-18,Customer 135,user135@mail.com,East,Furniture,5.0,700.7,126.86
+ORD-00286,2025-05-25,Customer 136,user136@mail.com,West,Furniture,4.0,330.08,59.01
+ORD-00287,2025-04-19,Customer 137,user137@mail.com,South,Furniture,6.0,132.42,11.12
+ORD-00288,2024-07-21,Customer 138,user138@mail.com,North,Office Supplies,6.0,841.74,-46.93
+ORD-00289,2024-08-10,Customer 139,user139@mail.com,East,Furniture,1.0,395.83,-38.1
+ORD-00290,2025-01-20,Customer 140,user140@mail.com,North,Furniture,1.0,91.24,6.46
+ORD-00291,2025-05-13,Customer 141,user141@mail.com,West,technology,5.0,929.65,-91.5
+ORD-00292,2024-02-22,Customer 142,user142@mail.com,WEST,Technology,8.0,3111.84,793.01
+ORD-00293,2024-02-07,Customer 143,user143@mail.com,South,Technology,2.0,15.3,4.48
+ORD-00294,2024-05-13,Customer 144,user144@mail.com,South,technology,2.0,243.1,132.33
+ORD-00295,2024-08-20,Customer 145,user145@mail.com,North,Office Supplies,4.0,1317.48,331.67
+ORD-00296,2024-03-28,Customer 146,user146@mail.com,East,Office Supplies,3.0,128.43,3.99
+ORD-00297,2024-10-07,Customer 147,user147@mail.com,North,Technology,1.0,371.68,-4.0
+ORD-00298,2024-10-19,Customer 148,user148@mail.com,West,Office Supplies,9.0,3011.85,-1197.99
+ORD-00299,2025-05-28,Customer 149,user149@mail.com,South,Furniture,6.0,369.06,11.35
+ORD-00300,2025-02-06,Customer 0,user0@mail.com,East,Technology,8.0,1911.84,178.67
+ORD-00301,2024-05-15,Customer 1,user1@mail.com,West,Office Supplies,9.0,2019.78,535.59
+ORD-00302,2025-02-28,Customer 2,user2@mail.com,South,Office Supplies,6.0,1674.06,354.47
+ORD-00303,2025-03-11,Customer 3,user3@mail.com,North,Office Supplies,4.0,504.8,105.13
+ORD-00304,2025-01-02,Customer 4,user4@mail.com,East,Office Supplies,1.0,156.74,23.83
+ORD-00305,2024-12-31,Customer 5,user5@mail.com,South,Technology,1.0,100.12,21.94
+ORD-00306,2024-06-16,Customer 6,user6@mail.com,West,Furniture,3.0,360.9,121.67
+ORD-00307,2025-01-22,Customer 7,user7@mail.com,North,Office Supplies,6.0,446.46,-17.74
+ORD-00308,2024-03-13,Customer 8,user8@mail.com,North,Furniture,6.0,2173.44,111.73
+ORD-00309,2024-12-05,Customer 9,user9@mail.com,North,Furniture,2.0,711.06,-62.77
+ORD-00310,2025-05-12,Customer 10,user10@mail.com,West,Office Supplies,3.0,250000.0,160.22
+ORD-00311,2025-06-08,Customer 11,user11@mail.com,West,Office Supplies,9.0,2509.38,789.28
+ORD-00312,2024-06-10,Customer 12,user12@mail.com,East,Office Supplies,3.0,595.98,138.77
+ORD-00313,2024-06-28,Customer 13,user13@mail.com,North,Technology,2.0,231.82,-13.86
+ORD-00314,2024-11-30,Customer 14,user14@mail.com,West,Furniture,3.0,429.27,62.65
+ORD-00315,2024-08-03,Customer 15,user15@mail.com,West,Furniture,4.0,1544.96,131.02
+ORD-00316,2025-01-29,Customer 16,user16@mail.com,East,technology,-3.0,699.4,92.41
+ORD-00317,2024-04-19,Customer 17,user17@mail.com,WEST,Office Supplies,5.0,1167.85,107.19
+ORD-00318,2024-04-01,Customer 18,user18@mail.com,South,Furniture,1.0,378.32,74.9
+ORD-00319,2024-01-28,Customer 19,user19@mail.com,West,Office Supplies,2.0,245.1,14.9
+ORD-00320,2024-09-10,Customer 20,user20@mail.com, east ,Technology,2.0,649.06,161.09
+ORD-00321,2024-04-24,Customer 21,user21@mail.com,West,Technology,3.0,"1,250.50",23.46
+ORD-00322,2024-06-10,Customer 22,user22@mail.com,East,Technology,9.0,2652.03,201.66
+ORD-00323,2025-05-09,Customer 23,user23@mail.com,South,Furniture,3.0,970.92,100.22
+ORD-00324,2025-03-15,Customer 24,user24@mail.com,South,Technology,4.0,1343.16,72.41
+ORD-00325,2025-03-29,Customer 25,user25@mail.com,North,Furniture,7.0,2731.05,661.14
+ORD-00326,2024-11-16,Customer 26,user26@mail.com,East,Office Supplies,,1143.28,90.64
+ORD-00327,2024-03-01,Customer 27,user27@mail.com,West,Technology,9.0,3519.0,577.94
+ORD-00328,2025-02-07,Customer 28,user28@mail.com,East,Office Supplies,5.0,574.75,35.14
+ORD-00329,2024-11-22,Customer 29,user29@mail.com,South,Office Supplies,4.0,844.08,-86.74
+ORD-00330,2025-05-05,Customer 30,user30@mail.com,South,Technology,7.0,626.92,160.44
+ORD-00331,2024-09-15,Customer 31,user31@mail.com,West,Technology,8.0,303.92,-11.77
+ORD-00332,2024-04-03,Customer 32,user32@mail.com,West,Office Supplies,6.0,1070.28,237.47
+ORD-00333,2024-11-17,Customer 33,user33@mail.com,South,technology,,578.54,105.89
+ORD-00334,2024-09-03,Customer 34,user34@mail.com,East,Furniture,3.0,"1,250.50",-120.38
+ORD-00335,2024-12-22,Customer 35,user35@mail.com,South,Furniture,6.0,70.26,-1.52
+ORD-00336,2024-07-21,Customer 36,user36@mail.com,South,Office Supplies,4.0,,64.7
+ORD-00337,2024-06-14,Customer 37,user37@mail.com,West,Office Supplies,4.0,410.64,-1.28
+ORD-00338,2024-03-08,Customer 38,user38@mail.com,South,Furniture,3.0,361.26,-20.7
+ORD-00339,2025-06-03,Customer 39,user39@mail.com,North,Technology,3.0,1001.4,231.34
+ORD-00340,2025-02-11,Customer 40,user40@mail.com,South,Technology,5.0,1791.05,150.58
+ORD-00341,2024-09-08,Customer 41,user41@mail.com,East,Technology,8.0,2367.12,421.0
+ORD-00342,2024-05-06,Customer 42,user42@mail.com,North,Office Supplies,4.0,545.84,30.25
+ORD-00343,2024-12-05,Customer 43,user43@mail.com,West,Office Supplies,7.0,1314.74,217.98
+ORD-00344,2024-08-10,Customer 44,user44@mail.com,South,Furniture,9.0,3012.03,22.07
+ORD-00345,2024-12-09,Customer 45,user45@mail.com,South,Furniture,2.0,292.28,33.91
+ORD-00346,2024-02-18,Customer 46,user46@mail.com,West,Technology,9.0,2907.9,602.74
+ORD-00347,2024-04-09,Customer 47,user47@mail.com,North,Office Supplies,3.0,941.67,119.37
+ORD-00348,2025-01-31,Customer 48,user48@mail.com,West,Office Supplies,1.0,"1,250.50",9.78
+ORD-00349,2024-02-03,Customer 49,user49@mail.com,North,Office Supplies,8.0,,-123.54
+ORD-00350,2024-12-31,Customer 50,user50@mail.com,South,Office Supplies,1.0,156.89,22.77
+ORD-00351,2024-08-10,Customer 51,user51@mail.com,North,Furniture,9.0,2710.98,465.59
+ORD-00352,2024-01-02,Customer 52,user52@mail.com,South,Office Supplies,2.0,515.4,41.87
+ORD-00353,2025-02-16,Customer 53,user53@mail.com,North,Furniture,6.0,815.04,3.75
+ORD-00354,2025-01-12,Customer 54,user54@mail.com,West,Office Supplies,3.0,645.15,129.93
+ORD-00355,2025-03-16,Customer 55,user55@mail.com,North,Furniture,8.0,1955.12,962.43
+ORD-00356,2025-04-28,Customer 56,user56@mail.com,West,Technology,7.0,1519.35,113.39
+ORD-00357,2025-01-29,Customer 57,user57@mail.com,West,Office Supplies,9.0,,74.78
+ORD-00358,2025-03-30,Customer 58,user58@mail.com,East,Technology,8.0,3172.96,560.37
+ORD-00359,2024-03-02,Customer 59,user59@mail.com, east ,Furniture,7.0,2707.67,-717.45
+ORD-00360,2025-05-10,Customer 60,user60@mail.com, east ,Technology,9.0,178.2,24.69
+ORD-00361,2025-05-08,Customer 61,user61@mail.com,West,Office Supplies,6.0,2267.94,31.8
+ORD-00362,2025-01-09,Customer 62,user62@mail.com,North,Furniture,2.0,429.88,140.87
+ORD-00363,2025-03-09,Customer 63,user63@mail.com,West,Technology,2.0,109.3,8.95
+ORD-00364,not available,Customer 64,user64@mail.com,East,Furniture,6.0,1974.72,6.65
+ORD-00365,2025-04-18,Customer 65,user65@mail.com,West,Technology,4.0,704.08,61.41
+ORD-00366,2025-04-25,Customer 66,user66@mail.com,North,Technology,7.0,2006.97,290.98
+ORD-00367,2024-10-09,Customer 67,user67@mail.com,South,Technology,6.0,1990.5,71.69
+ORD-00368,2025-03-16,Customer 68,user68@mail.com,North,Technology,1.0,217.53,24.39
+ORD-00369,2025-05-09,Customer 69,user69@mail.com,West,Office Supplies,9.0,221.58,-18.42
+ORD-00370,2024-06-09,Customer 70,user70@mail.com,West,Furniture,9.0,,255.96
+ORD-00371,2024-01-26,Customer 71,user71@mail.com,West,Office Supplies,3.0,"1,250.50",197.93
+ORD-00372,2024-04-01,Customer 72,user72@mail.com,South,Office Supplies,3.0,250000.0,454.23
+ORD-00373,2024-01-17,Customer 73,user73@mail.com,West,Technology,4.0,446.8,100.97
+ORD-00374,2024-08-22,Customer 74,user74@mail.com,East,Technology,8.0,2521.12,405.37
+ORD-00375,2024-01-11,Customer 75,user75@mail.com,North,technology,1.0,349.88,104.11
+ORD-00376,2024-05-19,Customer 76,user76@mail.com,South,Technology,2.0,290.5,79.27
+ORD-00377,2024-05-16,Customer 77,user77@mail.com,South,Office Supplies,7.0,1169.14,432.09
+ORD-00378,2025-01-16,Customer 78,user78@mail.com,West,Technology,4.0,547.72,154.68
+ORD-00379,2024-05-14,Customer 79,user79@mail.com,South,technology,4.0,29.04,2.97
+ORD-00380,2025-05-27,Customer 80,user80@mail.com,South,Technology,,868.23,137.85
+ORD-00381,2024-04-11,Customer 81,user81@mail.com,West,Office Supplies,8.0,,159.75
+ORD-00382,2025-06-08,Customer 82,user82@mail.com,West,Office Supplies,2.0,95.64,15.81
+ORD-00383,2024-11-02,Customer 83,user83@mail.com,West,Furniture,3.0,,138.37
+ORD-00384,2024-05-11,Customer 84,user84@mail.com, east ,Office Supplies,3.0,520.95,1.37
+ORD-00385,2024-01-22,Customer 85,user85@mail.com,South,Technology,6.0,1376.64,-269.2
+ORD-00386,2024-06-14,Customer 86,user86@mail.com,West,Technology,4.0,469.68,9.04
+ORD-00387,2024-11-14,Customer 87,user87@mail.com,West,Technology,7.0,1031.38,-189.68
+ORD-00388,2024-02-28,Customer 88,user88@mail.com,South,Furniture,3.0,907.77,118.19
+ORD-00389,2024-03-30,Customer 89,user89@mail.com,North,Technology,5.0,952.9,115.0
+ORD-00390,2024-03-03,Customer 90,user90@mail.com,East,Office Supplies,4.0,962.52,-126.41
+ORD-00391,2025-01-01,Customer 91,user91@mail.com,East,Furniture,,343.92,76.77
+ORD-00392,2024-02-17,Customer 92,user92@mail.com,East,Office Supplies,2.0,450.06,112.53
+ORD-00393,2024-01-12,Customer 93,user93@mail.com,South,Office Supplies,4.0,1437.84,193.21
+ORD-00394,2024-09-03,Customer 94,user94@mail.com,East,Office Supplies,7.0,774.34,286.62
+ORD-00395,2024-06-16,Customer 95,user95@mail.com,West,Office Supplies,7.0,1470.21,589.19
+ORD-00396,2024-11-03,Customer 96,user96@mail.com,North,Office Supplies,7.0,1935.15,-117.85
+ORD-00397,2025-05-21,Customer 97,user97@mail.com,West,Furniture,2.0,78.56,21.64
+ORD-00398,2025-04-08,Customer 98,user98@mail.com,East,Office Supplies,6.0,2309.94,429.94
+ORD-00399,2024-10-17,Customer 99,user99@mail.com,East,Furniture,1.0,202.01,36.92
+ORD-00400,2024-12-13,Customer 100,user100@mail.com,South,Office Supplies,2.0,203.82,53.03
+ORD-00401,2025-03-14,Customer 101,user101@mail.com,West,Office Supplies,5.0,,18.51
+ORD-00402,2024-08-24,Customer 102,user102@mail.com,West,Office Supplies,7.0,2290.05,71.32
+ORD-00403,2024-12-21,Customer 103,user103@mail.com,South,Technology,3.0,762.27,-3.05
+ORD-00404,2024-04-26,Customer 104,user104@mail.com,WEST,Furniture,2.0,733.76,4.96
+ORD-00405,2024-11-25,Customer 105,user105@mail.com,South,Technology,8.0,320.96,33.77
+ORD-00406,2024-05-07,Customer 106,user106@mail.com,East,Technology,6.0,1280.4,-125.19
+ORD-00407,2024-04-13,Customer 107,user107@mail.com,West,technology,8.0,2387.52,-88.0
+ORD-00408,2025-02-15,Customer 108,user108@mail.com,South,Furniture,1.0,367.14,75.86
+ORD-00409,2024-11-06,Customer 109,user109@mail.com,South,Office Supplies,9.0,2325.33,254.29
+ORD-00410,2024-07-22,Customer 110,user110@mail.com,North,Office Supplies,8.0,1943.28,344.82
+ORD-00411,2024-01-22,Customer 111,user111@mail.com,West,Furniture,8.0,1266.8,-206.98
+ORD-00412,2024-05-07,Customer 112,user112@mail.com,South,Furniture,1.0,230.79,0.56
+ORD-00413,2025-03-08,Customer 113,user113@mail.com,West,Technology,6.0,1344.84,49.34
+ORD-00414,2024-09-09,Customer 114,user114@mail.com,North,Furniture,5.0,1812.4,226.33
+ORD-00415,2025-06-02,Customer 115,user115@mail.com, east ,Furniture,2.0,663.4,21.27
+ORD-00416,2025-05-01,Customer 116,user116@mail.com,West,Office Supplies,9.0,,693.04
+ORD-00417,2025-04-06,Customer 117,user117@mail.com,East,Technology,8.0,2959.2,329.24
+ORD-00418,2024-01-09,Customer 118,user118@mail.com,North,Technology,8.0,249.04,30.52
+ORD-00419,2024-01-28,Customer 119,user119@mail.com,West,Furniture,7.0,2163.0,263.95
+ORD-00420,2024-11-08,Customer 120,user120@mail.com,North,Office Supplies,2.0,"1,250.50",85.11
+ORD-00421,2024-07-01,Customer 121,user121@mail.com,North,Technology,7.0,2113.72,104.12
+ORD-00422,2025-03-30,Customer 122,user122@mail.com,South,Technology,,250000.0,175.88
+ORD-00423,2024-06-20,Customer 123,user123@mail.com,South,Technology,7.0,1327.2,250.85
+ORD-00424,2024-03-23,Customer 124,user124@mail.com,North,Office Supplies,6.0,1984.26,283.96
+ORD-00425,2024-03-01,Customer 125,user125@mail.com,East,Furniture,8.0,151.2,19.09
+ORD-00426,2024-06-11,Customer 126,user126@mail.com,East,Office Supplies,5.0,599.95,118.82
+ORD-00427,2024-12-04,Customer 127,user127@mail.com,North,Technology,3.0,593.82,161.7
+ORD-00428,2024-03-09,Customer 128,user128@mail.com, east ,Office Supplies,6.0,2048.04,536.24
+ORD-00429,2025-03-06,Customer 129,user129@mail.com,South,Technology,7.0,781.62,137.86
+ORD-00430,2024-06-12,Customer 130,user130@mail.com,West,Technology,3.0,990.33,249.08
+ORD-00431,2024-06-18,Customer 131,user131@mail.com,West,Office Supplies,5.0,508.0,69.98
+ORD-00432,2024-12-23,Customer 132,user132@mail.com,East,Office Supplies,6.0,,230.42
+ORD-00433,2025-04-10,Customer 133,user133@mail.com,East,Furniture,4.0,895.04,103.83
+ORD-00434,2024-08-23,Customer 134,user134@mail.com,East,Furniture,2.0,526.58,-100.72
+ORD-00435,2025-03-06,Customer 135,user135@mail.com,North,Office Supplies,3.0,1057.89,339.25
+ORD-00436,2024-06-13,Customer 136,user136@mail.com,North,Furniture,8.0,2819.12,383.9
+ORD-00437,2024-03-10,Customer 137,user137@mail.com,WEST,Technology,2.0,207.62,-11.56
+ORD-00438,2025-03-23,Customer 138,user138@mail.com,West,Office Supplies,4.0,1198.04,108.14
+ORD-00439,2025-02-18,Customer 139,user139@mail.com,North,Furniture,5.0,1279.1,-16.08
+ORD-00440,2025-02-09,Customer 140,user140@mail.com,West,Furniture,8.0,1260.24,548.24
+ORD-00441,2025-04-21,Customer 141,user141@mail.com,West,Furniture,4.0,1246.16,242.57
+ORD-00442,2024-09-26,Customer 142,user142@mail.com,West,Furniture,9.0,3235.68,-373.1
+ORD-00443,2024-04-16,Customer 143,user143@mail.com,North,Technology,4.0,777.12,156.92
+ORD-00444,2024-11-11,Customer 144,user144@mail.com, east ,Office Supplies,5.0,1834.3,110.4
+ORD-00445,2024-11-05,Customer 145,user145@mail.com,West,Technology,8.0,443.28,180.64
+ORD-00446,2024-07-27,Customer 146,user146@mail.com,WEST,Furniture,5.0,353.25,-13.39
+ORD-00447,2024-12-10,Customer 147,user147@mail.com,West,Office Supplies,7.0,2148.02,-466.24
+ORD-00448,2024-05-22,Customer 148,user148@mail.com,East,Office Supplies,4.0,502.76,65.3
+ORD-00449,2024-11-25,Customer 149,user149@mail.com,North,Office Supplies,7.0,1653.54,112.1
+ORD-00450,2025-03-04,Customer 0,user0@mail.com,South,Furniture,6.0,1208.04,69.48
+ORD-00451,2024-02-21,Customer 1,user1@mail.com,North,Technology,9.0,563.31,-113.33
+ORD-00452,2024-09-01,Customer 2,user2@mail.com,East,Office Supplies,4.0,1211.68,222.98
+ORD-00453,2024-12-23,Customer 3,user3@mail.com,East,Technology,2.0,595.74,221.02
+ORD-00454,2024-01-28,Customer 4,user4@mail.com,East,Office Supplies,2.0,"1,250.50",-20.75
+ORD-00455,2024-12-07,Customer 5,user5@mail.com,South,Technology,5.0,538.05,159.09
+ORD-00456,2025-05-07,Customer 6,user6@mail.com,West,Technology,5.0,1606.15,55.72
+ORD-00457,2025-03-20,Customer 7,user7@mail.com,West,Furniture,1.0,365.33,172.56
+ORD-00458,2025-01-05,Customer 8,user8@mail.com,South,Office Supplies,1.0,348.69,64.65
+ORD-00459,2025-03-09,Customer 9,user9@mail.com, east ,Office Supplies,4.0,812.96,74.65
+ORD-00460,2024-07-14,Customer 10,user10@mail.com,East,Office Supplies,1.0,150.12,42.91
+ORD-00461,2024-06-25,Customer 11,user11@mail.com,West,Technology,9.0,1627.83,323.78
+ORD-00462,2024-02-15,Customer 12,user12@mail.com,West,Office Supplies,8.0,597.36,18.6
+ORD-00463,2025-01-24,Customer 13,user13@mail.com,East,Office Supplies,1.0,200.92,45.51
+ORD-00464,2024-06-18,Customer 14,user14@mail.com,North,Technology,8.0,769.6,33.4
+ORD-00465,not available,Customer 15,user15@mail.com,West,Technology,7.0,482.79,-71.58
+ORD-00466,2024-09-08,Customer 16,user16@mail.com,South,Office Supplies,7.0,1087.45,461.88
+ORD-00467,2025-04-27,Customer 17,user17@mail.com,South,Furniture,8.0,242.0,16.35
+ORD-00468,2024-03-15,Customer 18,user18@mail.com,West,Office Supplies,7.0,1335.53,38.26
+ORD-00469,2024-03-28,Customer 19,user19@mail.com,North,Office Supplies,5.0,1399.85,239.11
+ORD-00470,2024-07-06,Customer 20,user20@mail.com,South,Technology,7.0,1836.17,-209.22
+ORD-00471,2024-01-15,Customer 21,user21@mail.com, east ,Office Supplies,8.0,3121.84,-259.23
+ORD-00472,2024-09-22,Customer 22,user22@mail.com,East,Technology,6.0,2129.34,95.93
+ORD-00473,2024-12-17,Customer 23,user23@mail.com,East,Technology,4.0,1021.32,42.94
+ORD-00474,2024-12-23,Customer 24,user24@mail.com,East,Technology,6.0,2157.36,282.15
+ORD-00475,2024-04-25,Customer 25,user25@mail.com,West,Office Supplies,4.0,722.24,208.28
+ORD-00476,2024-03-29,Customer 26,user26@mail.com,South,Technology,4.0,1282.24,62.7
+ORD-00477,2024-10-31,Customer 27,user27@mail.com,South,Office Supplies,5.0,586.85,113.8
+ORD-00478,2024-12-07,Customer 28,user28@mail.com,West,Technology,7.0,1491.35,313.53
+ORD-00479,2025-05-25,Customer 29,user29@mail.com,West,Office Supplies,2.0,784.1,-33.41
+ORD-00480,2025-04-28,Customer 30,user30@mail.com,South,Office Supplies,4.0,,149.04
+ORD-00481,2024-07-23,Customer 31,user31@mail.com,WEST,Furniture,3.0,615.54,-13.17
+ORD-00482,2024-03-28,Customer 32,user32@mail.com,West,Office Supplies,2.0,631.98,176.69
+ORD-00483,2024-05-16,Customer 33,user33@mail.com,North,Office Supplies,3.0,385.14,72.51
+ORD-00484,2025-04-21,Customer 34,user34@mail.com,North,Furniture,3.0,999.78,122.45
+ORD-00485,2024-09-03,Customer 35,user35@mail.com, east ,Technology,9.0,110.97,-8.98
+ORD-00486,2025-06-20,Customer 36,user36@mail.com,South,Furniture,4.0,396.44,54.47
+ORD-00487,2024-12-20,Customer 37,user37@mail.com,South,Technology,4.0,300.04,1.48
+ORD-00488,2024-11-17,Customer 38,user38@mail.com,West,Furniture,4.0,426.6,96.37
+ORD-00489,2024-02-24,Customer 39,user39@mail.com,South,Technology,3.0,1135.44,115.93
+ORD-00490,2024-11-14,Customer 40,user40@mail.com,East,Technology,9.0,129.96,-0.24
+ORD-00491,2024-07-24,Customer 41,user41@mail.com,West,technology,9.0,1107.0,286.52
+ORD-00492,2025-03-31,Customer 42,user42@mail.com,East,Office Supplies,4.0,927.52,211.69
+ORD-00493,2024-03-13,Customer 43,user43@mail.com,West,Office Supplies,2.0,565.44,17.53
+ORD-00494,2024-04-13,Customer 44,user44@mail.com, east ,Technology,1.0,310.64,91.42
+ORD-00495,2024-12-23,Customer 45,user45@mail.com,West,technology,9.0,1407.6,105.91
+ORD-00496,2025-01-02,Customer 46,user46@mail.com,East,Furniture,8.0,735.76,54.17
+ORD-00497,2025-03-24,Customer 47,user47@mail.com,West,Technology,8.0,,378.77
+ORD-00498,2024-10-10,Customer 48,user48@mail.com,East,Office Supplies,6.0,319.38,2.27
+ORD-00499,2024-07-22,Customer 49,user49@mail.com,East,Furniture,6.0,250000.0,9.9
+ORD-00500,2024-06-14,Customer 50,user50@mail.com,West,Office Supplies,7.0,675.29,64.78
+ORD-00501,2024-07-19,Customer 51,user51@mail.com,West,Office Supplies,4.0,798.28,279.03
+ORD-00502,2024-12-23,Customer 52,user52@mail.com,East,Technology,8.0,3017.2,1040.78
+ORD-00503,2024-10-18,Customer 53,user53@mail.com,North,Office Supplies,2.0,585.8,47.55
+ORD-00504,2024-06-08,Customer 54,user54@mail.com,West,Technology,5.0,1138.85,411.77
+ORD-00505,2024-04-26,Customer 55,user55@mail.com, east ,Office Supplies,1.0,210.88,23.94
+ORD-00506,2025-01-18,Customer 56,user56@mail.com,South,Furniture,7.0,,345.73
+ORD-00507,2024-05-13,Customer 57,user57@mail.com,East,Furniture,,252.45,63.75
+ORD-00508,2024-04-22,Customer 58,user58@mail.com,West,Office Supplies,5.0,689.2,112.9
+ORD-00509,2024-06-27,Customer 59,user59@mail.com,East,Technology,4.0,166.52,80.31
+ORD-00510,2025-04-05,Customer 60,user60@mail.com,South,Furniture,9.0,759.24,118.82
+ORD-00511,2024-09-04,Customer 61,user61@mail.com,West,Technology,4.0,1256.68,-74.95
+ORD-00512,2024-11-17,Customer 62,user62@mail.com,South,Technology,2.0,511.22,161.45
+ORD-00513,2024-02-14,Customer 63,user63@mail.com,South,Technology,9.0,2879.01,167.53
+ORD-00514,2024-07-05,Customer 64,user64@mail.com,East,Office Supplies,5.0,112.85,8.39
+ORD-00515,2025-02-10,Customer 65,user65@mail.com,East,Office Supplies,5.0,1804.1,-593.1
+ORD-00516,2025-02-21,Customer 66,user66@mail.com,East,Furniture,6.0,935.94,252.84
+ORD-00517,2024-11-08,Customer 67,user67@mail.com,East,Office Supplies,9.0,3337.56,810.25
+ORD-00518,2025-04-18,Customer 68,user68@mail.com,West,Office Supplies,1.0,239.83,57.52
+ORD-00519,2024-06-10,Customer 69,user69@mail.com,East,Technology,7.0,1548.33,413.03
+ORD-00520,2024-03-29,Customer 70,user70@mail.com,South,Office Supplies,5.0,1640.7,613.05
+ORD-00521,2024-02-11,Customer 71,user71@mail.com,West,Furniture,2.0,504.1,57.01
+ORD-00522,2024-04-17,Customer 72,user72@mail.com, east ,Office Supplies,9.0,2443.14,636.79
+ORD-00523,2025-02-16,Customer 73,user73@mail.com,East,Office Supplies,5.0,336.25,2.83
+ORD-00524,2025-05-03,Customer 74,user74@mail.com,East,Office Supplies,9.0,2193.84,146.83
+ORD-00525,2024-03-11,Customer 75,user75@mail.com,West,Office Supplies,2.0,291.64,81.23
+ORD-00526,2024-09-27,Customer 76,user76@mail.com,East,Office Supplies,7.0,244.02,43.6
+ORD-00527,2024-03-12,Customer 77,user77@mail.com,East,Furniture,1.0,57.61,-4.61
+ORD-00528,2025-04-01,Customer 78,user78@mail.com,East,Office Supplies,9.0,1750.68,304.97
+ORD-00529,2024-03-11,Customer 79,user79@mail.com,West,Furniture,9.0,978.21,90.55
+ORD-00530,2024-12-11,Customer 80,user80@mail.com,South,Technology,8.0,2458.4,-6.88
+ORD-00531,2024-02-13,Customer 81,user81@mail.com,South,Technology,4.0,213.4,39.51
+ORD-00532,not available,Customer 82,user82@mail.com,North,Office Supplies,7.0,73.22,4.34
+ORD-00533,2025-05-04,Customer 83,user83@mail.com,East,technology,2.0,797.62,-92.18
+ORD-00534,2025-01-30,Customer 84,user84@mail.com,West,Office Supplies,8.0,1028.96,-48.02
+ORD-00535,2024-05-25,Customer 85,user85@mail.com,North,Furniture,1.0,206.37,79.53
+ORD-00536,2025-03-30,Customer 86,user86@mail.com,East,Furniture,7.0,615.79,-66.04
+ORD-00537,2024-06-14,Customer 87,user87@mail.com,West,Technology,6.0,524.88,80.53
+ORD-00538,2025-02-11,Customer 88,user88@mail.com,South,Office Supplies,3.0,491.73,104.01
+ORD-00539,2025-03-25,Customer 89,user89@mail.com,West,Technology,5.0,1584.85,342.13
+ORD-00540,2024-09-19,Customer 90,user90@mail.com,West,Technology,5.0,102.05,-6.51
+ORD-00541,2024-11-30,Customer 91,user91@mail.com,South,technology,1.0,335.74,24.1
+ORD-00542,2025-04-06,Customer 92,user92@mail.com,North,Office Supplies,1.0,396.16,55.91
+ORD-00543,2024-04-11,Customer 93,user93@mail.com,East,Technology,7.0,1581.09,379.51
+ORD-00544,2024-01-11,Customer 94,user94@mail.com,North,Furniture,7.0,1030.4,23.96
+ORD-00545,2024-08-22,Customer 95,user95@mail.com,South,Technology,3.0,292.2,-15.93
+ORD-00546,2024-04-07,Customer 96,user96@mail.com,East,Office Supplies,5.0,386.35,104.46
+ORD-00547,2025-04-22,Customer 97,user97@mail.com,South,Office Supplies,8.0,1061.76,303.42
+ORD-00548,2025-04-13,Customer 98,user98@mail.com,North,Furniture,7.0,2389.8,419.44
+ORD-00549,2024-07-21,Customer 99,user99@mail.com,North,Technology,5.0,31.45,0.9
+ORD-00550,2024-06-15,Customer 100,user100@mail.com,WEST,Technology,8.0,2523.68,456.82
+ORD-00551,2025-01-18,Customer 101,user101@mail.com,East,Office Supplies,5.0,1343.2,183.21
+ORD-00552,2024-09-01,Customer 102,user102@mail.com,East,Office Supplies,1.0,12.51,3.07
+ORD-00553,2024-02-22,Customer 103,user103@mail.com,North,Office Supplies,5.0,162.35,-10.94
+ORD-00554,2024-12-23,Customer 104,user104@mail.com,South,Technology,3.0,886.05,121.78
+ORD-00555,2025-01-27,Customer 105,user105@mail.com,North,Technology,7.0,1896.3,182.31
+ORD-00556,2024-02-07,Customer 106,user106@mail.com,West,Office Supplies,1.0,128.83,-5.98
+ORD-00557,2025-02-23,Customer 107,user107@mail.com,South,Office Supplies,9.0,3106.89,473.33
+ORD-00558,2024-10-15,Customer 108,user108@mail.com,South,Office Supplies,6.0,528.06,66.13
+ORD-00559,2025-03-21,Customer 109,user109@mail.com,East,Technology,8.0,1389.04,81.18
+ORD-00560,2025-04-04,Customer 110,user110@mail.com,East,Office Supplies,5.0,252.15,45.24
+ORD-00561,2024-12-30,Customer 111,user111@mail.com,South,Technology,1.0,260.05,-24.14
+ORD-00562,2024-06-29,Customer 112,user112@mail.com,East,Office Supplies,4.0,157.48,17.63
+ORD-00563,2024-07-19,Customer 113,user113@mail.com,South,Technology,5.0,379.5,70.1
+ORD-00564,2025-01-26,Customer 114,user114@mail.com, east ,technology,4.0,1230.84,200.14
+ORD-00565,2024-02-04,Customer 115,user115@mail.com, east ,Office Supplies,3.0,607.77,171.07
+ORD-00566,2024-05-04,Customer 116,user116@mail.com,West,Technology,2.0,532.88,-32.06
+ORD-00567,2024-10-07,Customer 117,user117@mail.com,West,Office Supplies,1.0,294.91,-31.31
+ORD-00568,2025-05-24,Customer 118,user118@mail.com,WEST,Office Supplies,,1222.95,190.61
+ORD-00569,2025-02-13,Customer 119,user119@mail.com, east ,Technology,2.0,166.24,31.3
+ORD-00570,2025-03-16,Customer 120,user120@mail.com,South,Furniture,6.0,1685.46,738.19
+ORD-00571,2024-04-13,Customer 121,user121@mail.com,South,Office Supplies,3.0,152.4,32.38
+ORD-00572,2024-05-31,Customer 122,user122@mail.com,North,Furniture,4.0,446.32,-4.95
+ORD-00573,2024-05-23,Customer 123,user123@mail.com,South,Office Supplies,9.0,1638.09,394.62
+ORD-00574,2025-02-08,Customer 124,user124@mail.com,South,Office Supplies,5.0,251.0,-1.72
+ORD-00575,2024-10-16,Customer 125,user125@mail.com,South,Technology,7.0,328.09,-33.75
+ORD-00576,2024-04-24,Customer 126,user126@mail.com,West,Furniture,7.0,1838.55,940.17
+ORD-00577,2025-02-08,Customer 127,user127@mail.com,WEST,Office Supplies,8.0,2384.56,402.69
+ORD-00578,2024-12-10,Customer 128,user128@mail.com,South,Technology,1.0,151.42,34.41
+ORD-00579,2025-04-29,Customer 129,user129@mail.com,North,Furniture,7.0,1112.93,227.63
+ORD-00580,2024-10-28,Customer 130,user130@mail.com,South,Technology,3.0,261.0,102.26
+ORD-00581,2024-03-08,Customer 131,user131@mail.com,North,Furniture,3.0,633.12,102.96
+ORD-00582,2025-04-24,Customer 132,user132@mail.com,West,Technology,9.0,2108.25,638.07
+ORD-00583,2024-04-09,Customer 133,user133@mail.com,North,Office Supplies,4.0,1495.08,-50.97
+ORD-00584,2024-01-30,Customer 134,user134@mail.com,East,Office Supplies,5.0,105.15,-9.34
+ORD-00585,2025-03-07,Customer 135,user135@mail.com,South,Office Supplies,4.0,1455.8,486.21
+ORD-00586,2024-08-31,Customer 136,user136@mail.com, east ,Furniture,1.0,396.31,135.23
+ORD-00587,2024-12-14,Customer 137,user137@mail.com,North,Technology,3.0,425.34,83.63
+ORD-00588,2024-03-11,Customer 138,user138@mail.com,South,Technology,2.0,583.38,89.79
+ORD-00589,2025-01-24,Customer 139,user139@mail.com,West,Office Supplies,4.0,1323.24,191.77
+ORD-00590,2024-08-06,Customer 140,user140@mail.com,West,Furniture,1.0,262.19,4.4
+ORD-00591,2025-06-22,Customer 141,user141@mail.com,North,Technology,7.0,833.84,292.51
+ORD-00592,2024-12-09,Customer 142,user142@mail.com,West,technology,5.0,1255.25,274.69
+ORD-00593,2025-05-22,Customer 143,user143@mail.com, east ,Technology,1.0,351.38,68.83
+ORD-00594,2025-03-04,Customer 144,user144@mail.com,West,Technology,9.0,425.52,75.07
+ORD-00595,2025-03-31,Customer 145,user145@mail.com,North,Office Supplies,3.0,583.77,161.81
+ORD-00596,2024-02-17,Customer 146,user146@mail.com,West,Technology,4.0,55.76,10.92
+ORD-00597,2025-02-23,Customer 147,user147@mail.com,North,Office Supplies,5.0,"1,250.50",392.63
+ORD-00598,2024-11-21,Customer 148,user148@mail.com,North,Furniture,5.0,1562.5,-86.47
+ORD-00599,2024-08-01,Customer 149,user149@mail.com,West,Furniture,7.0,162.26,31.88
+ORD-00446,2024-07-27,Customer 146,user146@mail.com,WEST,Furniture,5.0,353.25,-13.39
+ORD-00404,2024-04-26,Customer 104,user104@mail.com,WEST,Furniture,2.0,733.76,4.96
+ORD-00509,2024-06-27,Customer 59,user59@mail.com,East,Technology,4.0,166.52,80.31
+ORD-00455,2024-12-07,Customer 5,user5@mail.com,South,Technology,5.0,538.05,159.09
+ORD-00201,2025-06-06,Customer 51,user51@mail.com,West,Furniture,3.0,849.57,-18.11
+ORD-00023,2024-05-30,Customer 23,user23@mail.com,West,Technology,1.0,251.71,69.91
+ORD-00415,2025-06-02,Customer 115,user115@mail.com, east ,Furniture,2.0,663.4,21.27
+ORD-00548,2025-04-13,Customer 98,user98@mail.com,North,Furniture,7.0,2389.8,419.44
+ORD-00066,2024-02-22,Customer 66,user66@mail.com,South,Office Supplies,1.0,198.21,24.97
+ORD-00165,not available,Customer 15,user15@mail.com,North,Office Supplies,4.0,734.48,75.09
+ORD-00334,2024-09-03,Customer 34,user34@mail.com,East,Furniture,3.0,"1,250.50",-120.38
+ORD-00329,2024-11-22,Customer 29,user29@mail.com,South,Office Supplies,4.0,844.08,-86.74
